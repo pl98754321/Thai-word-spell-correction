@@ -5,4 +5,5 @@ trigram , bigrame , unigrame dictionary from TNC (Thai national corpus)
 # Flow
 ![WordCorrection1](https://user-images.githubusercontent.com/78986208/162771116-e6cd444c-cbab-475c-a8f5-56bf794cf618.jpg)
 # Word correction using symspell
+this is faster than norvig spell checker but required more memory
 ![WordCorrection2](https://user-images.githubusercontent.com/78986208/162771380-81b32ff2-f84e-4abf-a35a-4cf4db409675.jpg)
